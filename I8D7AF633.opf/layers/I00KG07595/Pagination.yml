@@ -1,4 +1,4 @@
-id: b176469e7eb04a23a31b395f10249f68
+id: fc14b3aa78164c55aac491f23b1c2ae0
 annotation_type: Pagination
 revision: '00001'
 annotations:
@@ -7,13 +7,13 @@ annotations:
       start: 0
       end: 162
     imgnum: 3
-    reference: I00KG075950003.tif
+    reference: I00KG075950003.jpg
   91f29699e5d14d82836e7b1b14c137cc:
     span:
       start: 164
       end: 327
     imgnum: 5
-    reference: I00KG075950005.tif
+    reference: I00KG075950005.jpg
   c5f32d43fb3c447dac46f20a80128970:
     span:
       start: 329
